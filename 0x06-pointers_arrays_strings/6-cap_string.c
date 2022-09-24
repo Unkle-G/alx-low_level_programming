@@ -20,6 +20,7 @@ char *cap_string(char *n)
 		}
 
 		cap = 0;
+
 		for (x = 0; x <= 12; x++)
 		{
 			if (n[i] == separators[x])
