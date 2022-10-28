@@ -1,1 +1,12 @@
+!<arch>
 
+my_sort_int_tab.o/
+my_square_root.o/
+my_strcapitalize.o/
+my_str_isalpha.o/
+my_str_islower.o/
+my_str_isprintable.o/
+my_str_isupper.o/
+my_putnbr_base.o/
+my_put_un_nbr_base.o/
+my_getnbr.o/
